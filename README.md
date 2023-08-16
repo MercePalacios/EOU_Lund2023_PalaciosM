@@ -4,6 +4,8 @@ This repository contains documents related with Mercè Palacios' poster presente
 You are here probably because you have scanned the poster's BIDI. Thank you for your interest in my research!
 
 
+
+
 Please, check the RMarkdown file where you will find some supplementary material like new figures, methods explained in detail, quality analysis and other interesting stuff.
 
 Moreover, I have attached a copy of my poster in PDF, so you can check it whenever you want :)
