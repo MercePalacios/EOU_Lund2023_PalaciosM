@@ -1,4 +1,4 @@
-# EOU_Lund2023_PalaciosM
+# EOU_Lund2023_Poster
 This repository contains documents related with Mercè Palacios' poster presented in the EOU Lund 2023 conference.
 
 You are here probably because you have scanned the poster's BIDI. Thank you for your interest in my research!
