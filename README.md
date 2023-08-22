@@ -7,6 +7,7 @@ You are here probably because you have scanned the poster's BIDI. Thank you for 
 
 
 Please, check the RMarkdown file I have created where you will find some supplementary material like new figures, methods explained in detail, quality analysis and other interesting stuff.
+
 It is in both html and pdf format.
 
 
