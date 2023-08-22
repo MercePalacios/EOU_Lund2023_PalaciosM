@@ -6,7 +6,8 @@ You are here probably because you have scanned the poster's BIDI. Thank you for 
 
 
 
-Please, check the RMarkdown file where you will find some supplementary material like new figures, methods explained in detail, quality analysis and other interesting stuff.
+Please, check the RMarkdown file I have created where you will find some supplementary material like new figures, methods explained in detail, quality analysis and other interesting stuff.
+Click here: 
 
 Moreover, I have attached a copy of my poster in PDF, so you can check it whenever you want :)
 
